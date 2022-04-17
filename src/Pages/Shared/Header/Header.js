@@ -21,6 +21,7 @@ const Header = () => {
         sticky="top"
         bg="dark"
         variant="dark"
+        className="h-75"
       >
         <Container>
           <Navbar.Brand as={Link} to="/">
