@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useSpring, animated } from "react-spring";
+import "./PageNotFound.css";
 
 const PageNotFound = () => {
   const [flip, set] = useState(false);
@@ -13,12 +14,17 @@ const PageNotFound = () => {
   });
 
   return (
-    <div className="d-grid justify-content-center">
-      <animated.div className="font-bold fs-6 text-danger" style={props}>
+    <div>
+      <animated.div
+        className="fw-bold fs-1 text-danger text-center"
+        style={props}
+      >
         EI PAGE DUNIAY NAI
       </animated.div>
 
-      <img className="w-3/5" src={require("./404-image.jpg")} alt="" />
+      <div className="d-flex justify-content-center">
+        <img className="error-img" src={require("./404-image.jpg")} alt="" />
+      </div>
     </div>
   );
 };
