@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg",
+    "name": "Tony Stark",
+    "opinion": "As a Doctor, Dr. Mahfuzur Rahman is a very sharp minded and well trained doctor. I was his emergency patient few months ago."
+  },
+  {
+    "id": 2,
+    "img": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/07/thor-ragnarok2.jpg",
+    "name": "Thor",
+    "opinion": "My grandma has some mental issues. After some months of taking therapy form Dr. Mahfuzur Rahman, She is quite well."
+  },
+  {
+    "id": 3,
+    "img": "https://www.fxguide.com/wp-content/uploads/2019/05/thanos3.jpg",
+    "name": "Thanos",
+    "opinion": "I used this computer to attack on New York in 2012. Tony's Jervis couldn't stop me!!!"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ytimg.com/vi/BNcxTNrtRdk/maxresdefault.jpg",
+    "name": "Peter Parker",
+    "opinion": "This computer helped me to breack the training period of my suits. Tony made that for me."
+  },
+  {
+    "id": 5,
+    "img": "https://i.insider.com/60c0bb836b60c70019c29cf0?width=700",
+    "name": "Loki",
+    "opinion": "Actually this computer dont consume that much power. Thor didn't know that I was stealing the electricity"
+  },
+  {
+    "id": 6,
+    "img": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/JmzRuxPCozjvVFPlaFea8yfSNeGdZM.jpg",
+    "name": "Steve Rogers",
+    "opinion": "I make a portal that allow me to talk with Peggy by chatting in messenger in that era. It's a useful domestic product."
+  }
+]

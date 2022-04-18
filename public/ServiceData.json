@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "price": 199,
+    "serviceName": "Emergency Treatment",
+    "image": "https://img.freepik.com/free-photo/surgeons-wearing-surgical-loupes-while-performing-operation_107420-64896.jpg?t=st=1650256419~exp=1650257019~hmac=963388b29f7c99e9e8ef07743868a53be0f03276b34267120fa91a59e9dffca2&w=740",
+    "shortDescription": "You can take the best treatment on any kind of emargency cases with cheapest cost."
+  },
+  {
+    "id": 2,
+    "price": 220,
+    "serviceName": "Psycological Help",
+    "image": "https://img.freepik.com/free-vector/psychological-help-landing-page-design_52683-46623.jpg?t=st=1650253773~exp=1650254373~hmac=42093a95c6aa277bb09bfecef2942f8ad07e97e99495aa778d6f593a42801f7e&w=740",
+    "shortDescription": "Need psycological help? don't worry just check it out and I will contact in few minutes."
+  },
+  {
+    "id": 3,
+    "price": 270,
+    "serviceName": "Group Therapy",
+    "image": "https://img.freepik.com/free-photo/young-parents-had-troubles-their-relationship-pshycoterapist-solved-problem-clapping-hands-with-girl_1157-47491.jpg?t=st=1650253773~exp=1650254373~hmac=eae325872165d62154ec0eb3203ba6c888aa76c9734fb05793f161e162cc4336&w=740",
+    "shortDescription": "You can have a session with your family members."
+  },
+  {
+    "id": 4,
+    "price": 260,
+    "serviceName": "Healing Massage",
+    "image": "https://img.freepik.com/free-photo/male-physiotherapist-checking-woman-s-knee-mobility_23-2148780733.jpg?t=st=1650253773~exp=1650254373~hmac=759becc80873faf4cb1ea5ee9acac79af743b7baa786fde75373510dd7815536&w=740",
+    "shortDescription": "If Injuries are lasting long then contact me through the button."
+  },
+  {
+    "id": 5,
+    "price": 150,
+    "serviceName": "Family Ties Issue",
+    "image": "https://img.freepik.com/free-photo/married-couple-having-problems-their-relationship-they-are-attending-pshycologist-advice_1157-47477.jpg?t=st=1650253773~exp=1650254373~hmac=3f027befb5c8a7e0c150d68bf01384458b911ba641456334f1036bb23726cb66&w=740",
+    "shortDescription": "Family Ties are frailing? Don't worry I'm here."
+  },
+  {
+    "id": 6,
+    "price": 265,
+    "serviceName": "ICU Patient's",
+    "image": "https://img.freepik.com/free-photo/doctor-with-patient-physiotherapy-clinic_1157-38487.jpg?t=st=1650256074~exp=1650256674~hmac=4dd51eba6fa287b2a195775e059c91bd996834b3a07c117763170df1cd7937b8&w=740",
+    "shortDescription": "Recovery massage or therapy? don't forget to check out."
+  },
+  {
+    "id": 7,
+    "price": 175,
+    "serviceName": "Tele-Medcine",
+    "image": "https://img.freepik.com/free-photo/close-up-old-man-talking-online-doctor_23-2148998303.jpg?t=st=1650257585~exp=1650258185~hmac=986140e374237075638dccfca8f88537f7fa8bd8ea411dc027d151c1e3a69aa3&w=740",
+    "shortDescription": "Staying in so far from city? don't worry. I'll be connect with you online."
+  },
+  {
+    "id": 8,
+    "price": 250,
+    "serviceName": "Mental Massage",
+    "image": "https://img.freepik.com/free-photo/man-medical-office-physiotherapist-is-rehabilitating-back_1157-44702.jpg?t=st=1650253773~exp=1650254373~hmac=3ae74fb0ea542ed23bc0d50748739b21afc6b6c665cce47c7e0c55cb04943fe7&w=740",
+    "shortDescription": "Need to get relaxation? Check it out."
+  },
+  {
+    "id": 9,
+    "price": 200,
+    "serviceName": "Daily Visit",
+    "image": "https://img.freepik.com/free-photo/young-doctor-supporting-his-patient_1098-2237.jpg?t=st=1650256248~exp=1650256848~hmac=d194e5530d5345cc5efeb68f6cfbe6578a1b8448dba425787967e843041dc4cb&w=740",
+    "shortDescription": "Go for a daily visit and ensure the condition of your health."
+  }
+]

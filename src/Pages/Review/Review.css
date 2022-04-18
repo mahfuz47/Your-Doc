@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Poppins&display=swap");
+
+.review-container {
+  box-shadow: 20px 20px 40px 0 rgba(128, 128, 128, 0.767);
+  transition: transform 0.3s ease, background-color 0.5s ease;
+  border-radius: 25px;
+  font-family: "Poppins", sans-serif;
+}
+.review-container:hover {
+  transform: scale(1.02);
+  background-color: rgb(224, 224, 224);
+}
+
+.review-img {
+  height: 200px;
+  width: 100%;
+  border-radius: 25px;
+}
