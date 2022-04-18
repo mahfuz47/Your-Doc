@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <div>
       <Banner></Banner>
-      <h1 className="text-secondary my-5 mx-auto text-center border border-3 border-warning rounded-3 w-25">
+      <h1 className="text-secondary my-5 mx-auto text-center text-decoration-underline">
         SERVICES(6)
       </h1>
       <div className="row justify-content-center align-items-center g-4 container-fluid mx-auto my-5">
@@ -28,7 +28,7 @@ const Home = () => {
           </Link>
         </button>
       </div>
-      <h1 className="text-secondary my-5 mx-auto text-center border border-3 border-warning rounded-3 w-25">
+      <h1 className="text-secondary my-5 mx-auto text-center text-decoration-underline">
         REVIEWS(3)
       </h1>
       <div className="row justify-content-center align-items-center g-4 container-fluid mx-auto my-5">

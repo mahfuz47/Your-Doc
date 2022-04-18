@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Service.css";
 
 const Service = ({ service }) => {
@@ -14,8 +15,10 @@ const Service = ({ service }) => {
       <p>
         <small>{shortDescription}</small>
       </p>
-      <button className="btn btn-warning px-5 fw-bold rounded-pill my-1">
-        Checkout
+      <button className="btn btn-secondary px-5 fw-bold rounded-pill my-1">
+        <Link className="text-decoration-none text-white" to="/checkout">
+          Checkout
+        </Link>
       </button>
     </div>
   );

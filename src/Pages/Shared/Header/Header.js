@@ -1,18 +1,18 @@
-// import { signOut } from "firebase/auth";
+import { signOut } from "firebase/auth";
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
-// import { useAuthState } from "react-firebase-hooks/auth";
+import { useAuthState } from "react-firebase-hooks/auth";
 import { Link } from "react-router-dom";
 import CustomLink from "../../../Utilities/CustomLink/CustomLink";
-// import auth from "../../../firebase.init";
+import auth from "../../../firebase.init";
 import "./Header.css";
 
 const Header = () => {
-  //   const [user] = useAuthState(auth);
+  const [user] = useAuthState(auth);
 
-  //   const handleSignOut = () => {
-  //     signOut(auth);
-  //   };
+  const handleSignOut = () => {
+    signOut(auth);
+  };
 
   return (
     <>
@@ -38,18 +38,18 @@ const Header = () => {
               <Nav.Link as={Link} to="about">
                 About
               </Nav.Link>
-              {/* {user ? (
-              <button
-                className="btn btn-link text-white text-decoration-none"
-                //   onClick={handleSignOut}
-              >
-                sign out
-              </button>
-              ) : ( */}
-              <Nav.Link as={Link} to="login">
-                Login
-              </Nav.Link>
-              {/* )} */}
+              {user ? (
+                <button
+                  className="btn btn-link text-white text-decoration-none"
+                  onClick={handleSignOut}
+                >
+                  sign out
+                </button>
+              ) : (
+                <Nav.Link as={Link} to="login">
+                  Login
+                </Nav.Link>
+              )}
             </Nav>
           </Navbar.Collapse>
         </Container>

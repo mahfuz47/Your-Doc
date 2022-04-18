@@ -1,0 +1,18 @@
+.slider-header {
+  text-align: start;
+  margin-bottom: 20em;
+}
+
+.slider-header h1 {
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.slider-header2 {
+  text-align: end;
+  margin-bottom: 24em;
+}
+.slider-header2 h1 {
+  font-size: 50px;
+  font-weight: 800;
+}
